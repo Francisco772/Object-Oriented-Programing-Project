@@ -35,6 +35,11 @@ The system was designed using the **Unified Modeling Language (UML)** prior to i
 
 ---
 
+## 👥 Team
+* **Ashool Lakhani**
+* **Francisco Oliveira**
+* **Tara Kouros**
+
 ## 📂 Repository Structure
 
 ```text
@@ -47,7 +52,4 @@ The system was designed using the **Unified Modeling Language (UML)** prior to i
 ├── interface.py       # Menu System & Event Handling
 └── images/            # Assets
 
-## 👥 Team
-* **Ashool Lakhani**
-* **Francisco Oliveira**
-* **Tara Kouros**
+
